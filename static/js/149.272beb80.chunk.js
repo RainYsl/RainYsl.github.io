@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcopyreacthooks=self.webpackChunkcopyreacthooks||[]).push([[149],{54149:function(t,e,n){n.r(e);var o=n(27507),r=n(87309),c=n(57689),s=n(68438),u=(n(97002),n(80184));e.default=function(){var t=(0,c.s0)();return(0,u.jsx)(o.ZP,{status:"500",title:"500",subTitle:"Sorry, something went wrong.",extra:(0,u.jsx)(r.Z,{type:"primary",onClick:function(){t(s.ft)},children:"Back Home"})})}},97002:function(){}}]);
+//# sourceMappingURL=149.272beb80.chunk.js.map

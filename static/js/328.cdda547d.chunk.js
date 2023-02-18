@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcopyreacthooks=self.webpackChunkcopyreacthooks||[]).push([[328],{49976:function(t,e,o){o.r(e);var s=o(27507),c=o(87309),n=o(57689),r=o(68438),i=(o(97002),o(80184));e.default=function(){var t=(0,n.s0)();return(0,i.jsx)(s.ZP,{status:"404",title:"404",subTitle:"Sorry, the page you visited does not exist.",extra:(0,i.jsx)(c.Z,{type:"primary",onClick:function(){t(r.ft)},children:"Back Home"})})}},97002:function(){}}]);
+//# sourceMappingURL=328.cdda547d.chunk.js.map

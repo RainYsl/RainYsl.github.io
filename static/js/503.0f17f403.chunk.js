@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcopyreacthooks=self.webpackChunkcopyreacthooks||[]).push([[503],{5841:function(e,c,o){o.r(c),o.d(c,{default:function(){return n}});o(72791);var a=o.p+"static/media/welcome01.5d1d871fa9af2379013b.png",s=o(80184),n=function(){return console.log("Home"),(0,s.jsx)("div",{className:"home card",children:(0,s.jsx)("img",{src:a,alt:"welcome"})})}}}]);
+//# sourceMappingURL=503.0f17f403.chunk.js.map

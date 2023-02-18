@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcopyreacthooks=self.webpackChunkcopyreacthooks||[]).push([[902],{13902:function(t,e,o){o.r(e);var a=o(27507),c=o(87309),r=o(57689),n=o(68438),s=(o(97002),o(80184));e.default=function(){var t=(0,r.s0)(),e=localStorage.getItem("token")?n.ft:n.DC.join();return(0,s.jsx)(a.ZP,{status:"403",title:"403",subTitle:"Sorry, you are not authorized to access this page.",extra:(0,s.jsx)(c.Z,{type:"primary",onClick:function(){t(e)},children:"Back Home"})})}},97002:function(){}}]);
+//# sourceMappingURL=902.e112d80c.chunk.js.map

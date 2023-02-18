@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcopyreacthooks=self.webpackChunkcopyreacthooks||[]).push([[403],{82403:function(e,n,o){o.r(n),o.d(n,{Nest4:function(){return c}});var s=o(72791),t=o(80184),c=s.memo((function(e){var n=e.num;return console.log("Nest4"),(0,t.jsxs)("div",{children:["Nest4",n]})}));n.default=c}}]);
+//# sourceMappingURL=403.9dac525a.chunk.js.map
